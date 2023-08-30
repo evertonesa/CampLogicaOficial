@@ -1,3 +1,10 @@
+/**
+ * Primeiro desafio do Camp db - Mercado Compra
+ * @autor Everton Santos
+ * @versão 1.0
+ * @Data 29-08-2023
+ */
+
 import java.util.Scanner;
 
 public class MercadoCompra {
