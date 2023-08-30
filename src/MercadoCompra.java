@@ -26,5 +26,4 @@ public class MercadoCompra {
             System.out.println("Compra efetuada com sucesso");
         }
     }
-
 }
