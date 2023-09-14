@@ -1,5 +1,5 @@
 /**
- * Desafio do Camp db - Venda Imóvel
+ * Desafio do Camp db - Encerrar Programa
  * @autor Everton Santos
  * @versão 1.0
  * @Data 14-09-2023
