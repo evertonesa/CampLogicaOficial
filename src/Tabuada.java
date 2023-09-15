@@ -2,7 +2,7 @@
  * Desafio do Camp db - Soma de Valores
  * @autor Everton Santos
  * @versão 1.0
- * @Data 14-09-2023
+ * @Data 10-09-2023
  */
 
 import java.util.Scanner;
