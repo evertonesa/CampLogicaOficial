@@ -11,7 +11,7 @@ public class ValoresImpares {
 
     public static void main(String[] args) {
 
-        Scanner in = new Scanner (System.in);
+        Scanner entrada = new Scanner (System.in);
 
         int[] v = new int[10];
         int i;
@@ -20,7 +20,7 @@ public class ValoresImpares {
         System.out.println("Vamos montar um vetor de 10 posicoes, por favor digite os numeros inteiros:");
 
         for(i=0; i<v.length;i++){
-            v[i] = in.nextInt();
+            v[i] = entrada.nextInt();
             if(v[i]%2!=0){
                 impar=impar+1;
             }
